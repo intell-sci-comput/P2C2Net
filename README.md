@@ -5,9 +5,12 @@ We propose a novel PDE-Preserved Coarse Correction Network,to efficiently solve 
 # Model Architecture
 ![image](https://github.com/user-attachments/assets/ec1a3825-b044-4d97-81e3-62364fc06be5)
 # Data generate
-for Burgers
+## for Burgers
+
 simply execute python dataGen.py
-for NSE
+
+## for NSE
+
 please go to https://github.com/google/jax-cfd
 # Instructions
 simply execute python train.py
